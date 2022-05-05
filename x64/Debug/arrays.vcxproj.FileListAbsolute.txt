@@ -1,0 +1,2 @@
+C:\Users\darij\OneDrive\Desktop\Development Principles Assessment 2\arrays\x64\Debug\arrays.exe
+C:\Users\darij\OneDrive\Desktop\C++ Visual Studios\arrays\x64\Debug\arrays.exe
